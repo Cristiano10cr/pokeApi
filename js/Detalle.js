@@ -1,0 +1,3 @@
+function Detalle(){
+    alert("Detalle")
+}
