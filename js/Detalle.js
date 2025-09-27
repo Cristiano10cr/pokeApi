@@ -1,3 +1,3 @@
 function Detalle(){
-    alert("Detalle")
+    document.getElementById("root").innerHTML= "Detalle"
 }
