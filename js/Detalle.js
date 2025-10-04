@@ -22,4 +22,3 @@ async function Detalle(pokemon){
     </section>
     `
 }
-Detalle("6")
